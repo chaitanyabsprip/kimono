@@ -1,4 +1,4 @@
-module github.com/rwxrob/bonzai/cmds/kimono
+module github.com/chaitanyabsprip/kimono
 
 go 1.23.2
 
